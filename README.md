@@ -1,2 +1,3 @@
-# My-endterm-project-Students-database-
-This project allows users to look through all the information of students in database, their academic progress(grades, GPA) and courses taken by them. There are three concrete classes(Student, Course, CalculateGPA), one abstract class(Person), one interface for connection of dbms(IDB), also the project contains controller and repository.
+Simple IOS application which allows user to click on buttons to output images from two different APIs. 
+So, if button "People" is pressed, random pictures of people will appear.
+So, if button "Animals" is pressed, random pictures of animals will appear.
